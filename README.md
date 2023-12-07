@@ -2,8 +2,6 @@
 
 -  I'm currently studying Computer Engineering in **Guilan University**
 
--  I’m currently learning **React library**
-
 - 📫 How to reach me **gelareh.sedaqat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

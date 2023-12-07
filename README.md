@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gelareh Sedaghat</h1>
+<h1 align="center">Hi , I'm Gelareh Sedaghat</h1>
 
 -  I currently study Computer Engineering in **Guilan University**
 

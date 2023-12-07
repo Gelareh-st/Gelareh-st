@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gelareh Sedaghat</h1>
-- 🌱 I’m currently learning **React library**
+
+-  I currently study Computer Engineering in **Guilan University**
+
+-  I’m currently learning **React library**
 
 - 📫 How to reach me **gelareh.sedaqat@gmail.com**
 

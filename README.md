@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Gelareh Sedaghat</h1>
 
--  I currently study Computer Engineering in **Guilan University**
+-  I'm currently studying Computer Engineering in **Guilan University**
 
 -  I’m currently learning **React library**
 

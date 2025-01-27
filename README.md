@@ -6,7 +6,6 @@
 ### 📚 About Me:
 - 🎓 I’m currently pursuing my **Master’s degree in Computer Engineering** at **Guilan University**.  
 - 💻 Working remotely as a **Front-End Developer** in a tech company.  
-- 🌱 Passionate about creating dynamic, responsive, and user-friendly web applications.  
 - 📧 You can reach me at **gelareh.sedaqat@gmail.com**.
 
 ---

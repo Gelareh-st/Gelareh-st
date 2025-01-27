@@ -3,14 +3,14 @@
 
 ---
 
-### 📚 About Me:
+###  About Me:
 - 🎓 I’m currently pursuing my **Master’s degree in Computer Engineering** at **Guilan University**.  
 - 💻 Working remotely as a **Front-End Developer** in a tech company.  
 - 📧 You can reach me at **gelareh.sedaqat@gmail.com**.
 
 ---
 
-### 🤝 Connect with Me:
+###  Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/gelareh-sedaghat-526a95234" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Technologies I Work With:
+###  Technologies I Work With:
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
